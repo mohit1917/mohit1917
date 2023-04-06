@@ -1,4 +1,4 @@
-![logo](https://github.com/mohit1917/mohit1917/blob/main/hacker3.gif)
+![logo](https://github.com/mohit1917/mohit1917/blob/main/hacker2.gif)
 <h1 align="center">Hi 👋, I'm Mohit Garg</h1>
 <h3 align="center">A passionate Ethical Hacker from India</h3>
 
